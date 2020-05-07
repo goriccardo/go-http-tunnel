@@ -28,10 +28,10 @@ Common use cases:
 Build the latest version.
 
 ```bash
-$ go get -u github.com/mmatczuk/go-http-tunnel/cmd/...
+$ go get -u github.com/goriccardo/go-http-tunnel/cmd/...
 ```
 
-Alternatively [download the latest release](https://github.com/mmatczuk/go-http-tunnel/releases/latest).
+Alternatively [download the latest release](https://github.com/goriccardo/go-http-tunnel/releases/latest).
 
 ## Running
 
@@ -132,4 +132,4 @@ A GitHub star is always appreciated!
 
 Copyright (C) 2017 Michał Matczuk
 
-This project is distributed under the BSD-3 license. See the [LICENSE](https://github.com/mmatczuk/go-http-tunnel/blob/master/LICENSE) file for details.
+This project is distributed under the BSD-3 license. See the [LICENSE](https://github.com/goriccardo/go-http-tunnel/blob/master/LICENSE) file for details.

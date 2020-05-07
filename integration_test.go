@@ -21,10 +21,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mmatczuk/go-http-tunnel"
-	"github.com/mmatczuk/go-http-tunnel/id"
-	"github.com/mmatczuk/go-http-tunnel/log"
-	"github.com/mmatczuk/go-http-tunnel/proto"
+	"github.com/goriccardo/go-http-tunnel"
+	"github.com/goriccardo/go-http-tunnel/id"
+	"github.com/goriccardo/go-http-tunnel/log"
+	"github.com/goriccardo/go-http-tunnel/proto"
 )
 
 const (
